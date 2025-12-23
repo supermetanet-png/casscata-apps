@@ -3,7 +3,7 @@
     "id": "n8n",
     "name": "n8n Workflow Automation",
     "description": "Ferramenta de automação de fluxo de trabalho profissional.",
-    "logo": "https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png",
+    "logo": "https://n8n.io/brandguidelines/logo-dark.svg",
     "version": "latest",
     "tags": ["Automation", "Low-code"]
   },
